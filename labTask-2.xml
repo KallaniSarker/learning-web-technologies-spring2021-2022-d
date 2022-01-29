@@ -1,0 +1,19 @@
+<Admission_information>
+	<SL id = "23">
+	<Name> John Carter</Name>
+	<Adnission_Date> 25/12/2015</Adnission_Date>
+</SL>
+
+     <SL id = "29">
+     	<Name> Bob Marshal </Name>
+     	<Admission-Date> 13/12/1999</Admission-Date>
+     </SL>
+
+     <SL id = "35">
+     	<Name> Clark Kent </Name>
+     	<Adnission_Date> 17/06/2005 </Adnission_Date>
+
+     </SL>
+
+ </Admission_information>
+ 
