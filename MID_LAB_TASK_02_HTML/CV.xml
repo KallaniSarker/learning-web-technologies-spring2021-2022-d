@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title>Curriculum Vitae</title>
+	</head>
+	<body>
+		<p> Name              : Kallani Sarker <br/>
+		    Father Name       : S Sarker <br/>
+		    Mother Name       : K Sarker <br/>
+		    Parmanent Address : Narayangonj <br/>
+		    Present Address   : Narayangonj <br/>
+		    Religion          : Hindu <br/>
+		    Relation Status   : Single <br/>
+		    Blood Group       : B+ <br/>
+		    Email             : sarkerkallani20199@gmail.com <br/>
+		</p>
+
+		<img src ="logo.png" width="100px" height="100px" />
+		<br><br>
+
+			<h1>Education</h1>
+
+
+				<table border="2" align="center" width="100%">
+					<tr>
+
+						<th>SSC</th>
+						<th>HSC</th>
+						<th>BSC</th>
+
+					</tr>
+
+					 <tr algin="center">
+					 	<td>1</td>
+					 	<td>2016</td>
+					 	<td>2018</td>
+					 	<td>Runing..</td>
+					 </tr>
+                </table>
+	</body>
+</html>
+
+
